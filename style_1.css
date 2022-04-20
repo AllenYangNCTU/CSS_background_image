@@ -1,0 +1,12 @@
+.box1{
+    margin: 0 auto;
+    background-image: url(castle.jpg);
+    width: 800px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-color: aquamarine;
+    background: rgba(0, 128, blue, 0.8);
+    background-position: center;
+    background-size: contain;
+}
+

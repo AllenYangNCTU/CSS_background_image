@@ -1,0 +1,6 @@
+body {
+    background-repeat: no-repeat;
+    background-image: url(castle.jpg);
+    background-attachment: fixed;
+    background-position: right top;
+}
